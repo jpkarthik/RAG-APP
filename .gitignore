@@ -1,5 +1,2 @@
 .env
-PDFs/
-__pycache__/
 *.pyc
-chroma_db/
